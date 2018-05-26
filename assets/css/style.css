@@ -85,7 +85,6 @@ nav {
   float: right;
   height: 50%;
   /* margin-top: 45px; */
-  /* margin-top: 50%; extra */
 }
 
 nav a {
@@ -177,11 +176,11 @@ h3, h2 {
 
 .auth-image {
   /* float: left; */
-  /* height: auto; */
+  height: auto;
   margin-top: 10px;
   margin-right: 25px;
-  /* max-width: 100%; */
-  width: 50%;
+  max-width: 50%;
+  /* width: auto; */
 }
 
 /* contact page */
